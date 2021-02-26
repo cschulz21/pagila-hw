@@ -42,4 +42,4 @@ The following picture illustrates the database's structure:
        ```
        $ docker-compose exec pg ./check_answers.sh
        ```
-1. Upload a link to your forked github repo on sakai. 
+1. Upload a link to your forked github repo on sakai.
